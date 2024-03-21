@@ -4,3 +4,4 @@ $ git status -s
 $ git branch -M main
 $ git add COPYLEFT README.md DOCS/
 $ git commit -m "Primers fitxers"
+$ git push -f -u origin main
