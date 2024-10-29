@@ -1,4 +1,4 @@
-GIT clone (url)
+git pull origin main
 git add .
-git commit -m "licencia"s
+git commit -m "llicencia"
 git push origin main
