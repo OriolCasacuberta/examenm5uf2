@@ -9,3 +9,6 @@ git push origin main
 
 git branch -M p1
 git branch -M p2
+
+git Branch -d p2
+git Branch -d p1
