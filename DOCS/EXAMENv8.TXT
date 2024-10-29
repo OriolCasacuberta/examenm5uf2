@@ -1,0 +1,10 @@
+git checkout mywork
+git add .
+git commit
+git push
+git checkout main
+git merge mywork main
+git add .
+git commit
+git push
+git Branch -d mywork
