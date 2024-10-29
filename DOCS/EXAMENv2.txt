@@ -1,0 +1,4 @@
+GIT clone (url)
+git add .
+git commit -m "licencia"s
+git push origin main
